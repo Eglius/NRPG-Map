@@ -43,11 +43,11 @@ var Factions = {
     blurb: 'Shortish description here.',
     detail: 'Longish description here.'
   },
-  'Island Country': {
-    name: 'Island Country',
-    capital: '',
-    color: '#c13dff',
-    blurb: 'Shortish description here.',
+  'New Kirigakure': {
+    name: 'New Kirigakure',
+    capital: 'Kirigakure',
+    color: '#0066CC',
+    blurb: 'The Hidden Mist revived and led by Xyxer Gyojin',
     detail: 'Longish description here.'
   },
   'Volcano Country': {
