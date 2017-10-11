@@ -30,16 +30,16 @@ var ZoneDetails = {
      "owner":"Kirigakure Ruins"
   },
   "IslandZone01":{
-     "name":"New Kirigakure",
-     "blurb":"",
-     "detail":"",
-     "owner":"Island Country"
+     "name":"Eastern Isles",
+     "blurb":"Wendigos run wild here",
+     "detail":"Savage jungle islands barely touched by mankind",
+     "owner":"New Kirigakure"
   },
   "IslandZone02":{
-     "name":"",
-     "blurb":"",
-     "detail":"",
-     "owner":"Island Country"
+     "name":"The Swirling Mist",
+     "blurb":"Surrounded by the Storm Circle",
+     "detail":"The former Shimagakure and it's surrounding islands are in this zone",
+     "owner":"New Kirigakure"
   },
   "VolcanoZone01":{
      "name":"",
